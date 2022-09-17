@@ -1,4 +1,4 @@
 outs:
-- md5: 7d5f0d3d303074d27e4bec9c224c2eff
-  size: 55270
+- md5: 519d2cb202c9cf49d4dd2fe0be72e13e
+  size: 38997
   path: relations_dev.json
