@@ -20,8 +20,8 @@ Some columns of this data are as follows
 ### Dataset 2
 The data are job descriptions ( together named entities)  and  relationships between entities in json format. To understand more about where the data comes from, read [How to Train a Joint Entities and Relation Extraction Classifier using BERT Transformer with spaCy 3 | by Walid Amamou | Towards Data Science](https://towardsdatascience.com/how-to-train-a-joint-entities-and-relation-extraction-classifier-using-bert-transformer-with-spacy-49eb08d91b5c)
 
-[Dataset Dev](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_dev.txt): For development and training
-[Dataset Test](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_test.txt): For testing and final reportin
+- [Dataset Dev](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_dev.txt): For development and training
+- [Dataset Test](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_test.txt): For testing and final reportin
 
 
 ## Repo Structure
