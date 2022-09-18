@@ -18,6 +18,18 @@ Some columns of this data are as follows
 * Analyst_Average_Score: target variable - the score to be estimated
 
 ### Dataset 2
+The data are job descriptions ( together named entities)  and  relationships between entities in json format. To understand more about where the data comes from, read [How to Train a Joint Entities and Relation Extraction Classifier using BERT Transformer with spaCy 3 | by Walid Amamou | Towards Data Science](https://towardsdatascience.com/how-to-train-a-joint-entities-and-relation-extraction-classifier-using-bert-transformer-with-spacy-49eb08d91b5c)
+
+[Dataset Dev](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_dev.txt): For development and training
+[Dataset Test](https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_test.txt): For testing and final reportin
+
+
+## Repo Structure
+### Folders
+#### Notebooks
+* EDA is done in notebook []
+* Classification of news items using Cohere’s Few-shot classification in notebook []
+* Entity Extraction from job descriptions using Cohere's generative models in notebook []
 
 
 ## Installation Guide
