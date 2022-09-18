@@ -27,9 +27,9 @@ The data are job descriptions ( together named entities)  and  relationships bet
 ## Repo Structure
 ### Folders
 #### Notebooks
-* EDA is done in notebook []
-* Classification of news items using Cohere’s Few-shot classification in notebook []
-* Entity Extraction from job descriptions using Cohere's generative models in notebook []
+* EDA is done in notebook [data_eda.ipynb](https://github.com/emtinanseo/Prompt-Engineering/blob/main/notebooks/data_eda.ipynb)
+* Classification of news items using Cohere’s Few-shot classification in notebook [classification.ipynb](https://github.com/emtinanseo/Prompt-Engineering/blob/main/notebooks/classification.ipynb)
+* Entity Extraction from job descriptions using Cohere's generative models in notebook [entity_extraction.ipynb](https://github.com/emtinanseo/Prompt-Engineering/blob/main/notebooks/entity_extraction.ipynb)
 
 
 ## Installation Guide
