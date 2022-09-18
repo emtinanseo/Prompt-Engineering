@@ -1,4 +1,4 @@
 [core]
     remote = lremote
 ['remote "lremote"']
-    url = /c/Users/admin/Desktop/10academy/week04/dvc_data
+    url = C:\Users\admin\Desktop\10academy\week04\dvc_data

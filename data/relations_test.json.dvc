@@ -1,0 +1,4 @@
+outs:
+- md5: f6699ad8f02620a57a9a3202a24cd68a
+  size: 25975
+  path: relations_test.json
